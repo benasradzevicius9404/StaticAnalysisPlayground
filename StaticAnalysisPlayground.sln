@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticAnalysisPlayground.DependenciesAnalyzer", "StaticAnalysisPlayground.DependenciesAnalyzer\StaticAnalysisPlayground.DependenciesAnalyzer.csproj", "{92475FD1-3EC7-418F-A19C-156A28C44445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92475FD1-3EC7-418F-A19C-156A28C44445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92475FD1-3EC7-418F-A19C-156A28C44445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92475FD1-3EC7-418F-A19C-156A28C44445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92475FD1-3EC7-418F-A19C-156A28C44445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9C3D7B2-4A3E-46CA-AE32-C766A4584A3B}
+	EndGlobalSection
+EndGlobal
